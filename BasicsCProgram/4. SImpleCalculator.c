@@ -1,4 +1,5 @@
-// 5. Add, subtract, multiply, and divide two numbers.
+
+// Add, subtract, multiply, and divide two numbers.
 #include <stdio.h>
 int main()
 {

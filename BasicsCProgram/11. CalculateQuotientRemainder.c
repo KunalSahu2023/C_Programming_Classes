@@ -1,4 +1,5 @@
-// 9. Find Quotient and Remainder.
+
+// Find Quotient and Remainder.
 #include <stdio.h>
 int main()
 {

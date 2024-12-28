@@ -1,4 +1,5 @@
-// 8. Calculate the compound interest based on user input.
+
+// Calculate the compound interest based on user input.
 #include <stdio.h>
 #include <math.h>
 

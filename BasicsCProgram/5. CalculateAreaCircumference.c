@@ -1,4 +1,5 @@
-// 6. Calculate the Area of a Circle.
+
+// Calculate the Area of a Circle.
 #include <stdio.h>
 int main()
 {
