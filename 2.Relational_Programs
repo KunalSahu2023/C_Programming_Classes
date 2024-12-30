@@ -1,0 +1,497 @@
+
+Logical and Relational Operations :
+
+Input salaries of two employees and compare them. 
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salary of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salary of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Determine if a number is divisible by 2 and not by 5.
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Check if a character is a vowel or consonant using logical operators.
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Check if a number is positive, negative, or zero.
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salary of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salary of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Determine if a year is a leap year.
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Check if two numbers are divisible by each other.
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+Determine if a number is even, divisible by 10, and greater than 100. 
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Input two Floating numbers and check if the first is greater than, less than, or equal to the second.
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Use relational operators to determine the largest among three numbers.
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Input age and check eligibility for voting or senior citizen benefits.
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Determine if two characters are equal or which is lexicographically greater.
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Check if a number is multiple of 5 using logical operators.
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Use logical conditions to assign grades based on marks input.
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Simulate truth tables for logical operators (AND, OR, NOT).
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Use logical operators to check if a password meets specific criteria (e.g., length, special characters).
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Combine relational and logical operators to determine if a number is prime.
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Input weight and height, calculate BMI, and classify as underweight, normal, or obese.
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Combine relational and logical operators to check if a student passed all subjects.
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Simulate a decision system for red, yellow, and green signals using logical operators.
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Use relational operators to determine the slab for billing based on units consumed.
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Use relational operators to validate if two input strings (passwords) are the same.
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+Check if an input character is a vowel, consonant, digit, or special symbol.
+
+#include<stdio.h>
+int main(){
+    int emp1, emp2;
+    printf("Enter the Salry of First Employee\n");
+    scanf("%d",emp1);
+        printf("Enter the Salry of Second Employee\n");
+    scanf("%d",emp2);
+    if(emp1 > emp2){
+        printf("Salary of Emp1 = %d is Greater than Emp2 = %d");
+    }
+    else if(emp1 < emp2){
+        printf("Salary of Emp2 = %d is Greater than Emp1 = %d");
+    }
+    else{
+        printf("Salary of Emp1 and Emp2 are Equal" );
+    }
+}
+
+
+
+Check for valid PIN and balance conditions using logical operators. 
+
+Check if three sides form a valid triangle using logical operators.
+Check and classify a triangle as scalene, isosceles, or equilateral. 
+Compare two characters and determine which comes first lexicographically.
+Check if a number is within a specific range (e.g., 10–50).
+Use the properties of a triangle (sum of two sides > third side) to validate.
+
+
+Validate if a date is correct (e.g., month in 1-12, day in 1-31).
+
+Simulate combinations of two Boolean variables for AND.
+
+Simulate combinations of two Boolean variables for OR.
+
+Simulate the negation of a Boolean value using NOT.
+
+Simulate (A && B) || (!C) for different inputs.
