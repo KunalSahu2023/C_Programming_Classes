@@ -1,2 +1,0 @@
-
-Least Common Multiple (LCM)

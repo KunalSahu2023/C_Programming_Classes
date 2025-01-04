@@ -1,2 +1,0 @@
-
-Greatest Common Divisor (GCD)
