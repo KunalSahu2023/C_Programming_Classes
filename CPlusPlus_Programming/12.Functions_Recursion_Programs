@@ -1,0 +1,88 @@
+
+
+
+Functions with Strings :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Functions with Structures:
+
+Write a function to display the details of a structure (e.g., student information structure).
+
+Write a function to compare two structures (e.g., compare two "Book" structures based on title or price).
+
+Write a function that modifies the data inside a structure (e.g., update a student's grade).
+
+Implement a function to copy data from one structure to another.
+
+Write a function that sorts an array of structures (e.g., sorting students by age or marks).
+
+Miscellaneous Function Programs :
+
+Write a function that returns the largest prime number smaller than a given number.
+Implement a function that prints all prime numbers from 1 to a given number.
+Write a function that checks if a number is a perfect number.
+Write a function to calculate simple interest for a given principal, rate, and time.
+Implement a function that calculates compound interest.
+Write a function that swaps two variables without using a temporary variable.
+Implement a function that converts a decimal number to binary.
+Write a function that counts how many bits are set to 1 in the binary representation of a number.
+Write a function to check if a number is an Armstrong number.
+Implement a function to generate a random number within a specified range.
+
+
+Recursion-based Function Programs :
+
+Implement a recursive function to calculate the factorial of a number.
+Write a recursive function that generates the nth Fibonacci number.
+Implement a recursive function to calculate 
+b^𝑎 (a raised to the power b).
+
+ Find the Average of N Numbers (Using Recursion)
+
+Write a recursive function to find the GCD of two numbers using Euclid's algorithm.
+
+Implement a recursive function that checks whether a string is a palindrome.
+
+Write a recursive function to calculate the sum of array elements.
+
+Implement a recursive function to reverse an array of integers.
+
+Implement the Tower of Hanoi problem using recursion.
+
+Implement a binary search algorithm using recursion.
+
+Write a recursive function to calculate the length of a string.
+
+Input a number and calculate its factorial using recursion.
+Find the GCD of two numbers using recursion.
+Reverse a string using recursion.
+Count the number of digits in a number using recursion.
+Write a recursive function to calculate the factorial of a number (n!).
+Implement a recursive function to print the nth Fibonacci number.
+
+Write a recursive function to calculate the sum of the first n natural numbers.
+Write a recursive function to reverse a given number (e.g., 123 -> 321).
+Implement a recursive function to find the greatest common divisor (GCD) of two numbers using Euclid’s algorithm.
+
+Write a recursive function to check if a string or number is a palindrome.
+Implement a recursive function to find the sum of digits of a number.
+Write a recursive function to print natural numbers from 1 to N.
+
+Write a recursive function to count the number of digits in a number.
+
+

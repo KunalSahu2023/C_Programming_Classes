@@ -1,0 +1,50 @@
+Pointers :
+
+Demonstrate the use of pointers.
+Swap two numbers using pointers.
+Access array elements using pointers.
+Reverse a string using pointers.
+Dynamic memory allocation using malloc and calloc.
+Declare and initialize a pointer to store the address of a variable.
+Access the value of a variable using a pointer (dereferencing a pointer).
+Perform basic arithmetic operations on pointers (e.g., incrementing, decrementing).
+Use a pointer to a pointer to store the address of another pointer.
+Work with pointers that point to the elements of an array.
+Use pointers to iterate through arrays and access their elements. 2. Pointer and Functions
+Use pointers to pass variables by reference to a function.
+Return a pointer to an array or dynamically allocated memory from a function.
+Pass a pointer as a function argument to modify the original data.
+Create and use function pointers to call functions dynamically. 3. Dynamic Memory Allocation
+Use malloc() to dynamically allocate memory for a variable or array.
+Use calloc() to allocate memory and initialize it to zero.
+Use realloc() to resize previously allocated memory.
+Use free() to deallocate dynamically allocated memory. 4. Pointer and Arrays
+Access elements of an array using a pointer and pointer arithmetic.
+Create an array of pointers and use it to store addresses of different variables.
+Work with pointers to access elements of a 2D array.
+Use pointers to manage an array of strings (array of character pointers). 5. Pointer to Structure
+Create an array of structures and access it using pointers.
+Pass structures to functions using pointers to modify structure fields. 6. Advanced Pointer Concepts
+Use pointers to store constant values (pointer to constant).
+Use a constant pointer to store the address of a variable but prevent the pointer from being reassigned.
+Use function pointers to call functions dynamically.
+Work with void pointers, which can point to any data type.
+Work with an array where each element is a pointer to another array or data type. 7. Pointer-Based String Operations
+Reverse a string by manipulating its characters using pointers.
+Concatenate two strings by manipulating their characters using pointers.
+Compare two strings using pointer-based traversal.
+Count the number of vowels in a string by using a pointer to traverse it. 8. Miscellaneous Pointer Programs
+Swap the values of two variables using pointers.
+Use pointers to iterate through an array and find the largest or smallest element.
+Perform matrix transpose using pointers to access 2D arrays.
+Implement sorting algorithms (like Bubble Sort or Selection Sort) using pointers.
+
+Create a singly linked list, traverse it, and perform insertions or deletions. 9. Real-Life Applications Using Pointers
+Create and resize a dynamic array using malloc(), calloc(), and realloc().
+Use pointers for efficient memory management in large data structures.
+Use pointers to simulate file handling (e.g., reading/writing strings to/from files).
+Implement a binary search algorithm using pointers to traverse a sorted array. 10. Pointer Challenges
+Work with multi-dimensional arrays using pointers (e.g., a 2D matrix with pointer manipulation).
+Implement a circular linked list where the last node points back to the first node.
+Reverse a linked list using only pointers (without extra memory).
+Find the middle node in a singly linked list using two pointers.

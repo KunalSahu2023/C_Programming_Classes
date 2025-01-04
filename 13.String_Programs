@@ -1,0 +1,95 @@
+5. Strings
+Print a String.
+Read and Print a Full Sentence.
+Find the length of a string(without strlen).
+Reverse a string.
+Check if a string is a palindrome.
+Concatenate two strings.
+Count vowels and consonants in a string.
+Find the frequency of characters in a string.
+Find String Length
+
+Calculate the length of a string without using strlen() function.
+
+Copy the content of one string to another using strcpy() or manually using loops.
+
+Compare two strings lexicographically using strcmp() or manually with loops.
+
+Check if a string reads the same backward and forward.
+
+Count the number of vowels and consonants in a string.
+
+Count the number of words in a string (separated by spaces).
+
+Find the first occurrence of a character in a string.
+
+Find the last occurrence of a character in a string.
+
+
+Advanced String Operations :
+
+Remove all spaces or white characters from a string.
+Check if a string contains a given substring.
+Convert all characters of a string to uppercase.
+Convert all characters of a string to lowercase.
+Toggle the case of each character in a string (convert uppercase to lowercase and vice versa).
+Count how many times a specific character appears in a string. 4. String Manipulation
+
+Remove any repeated characters from a string.
+Compress a string by counting the number of repeated characters (e.g., "aabbbcccc" becomes "a2b3c4").
+
+Shift all characters of a string to the right or left by a specified number of positions.
+Check if one string is a rotation of another string (e.g., "abc" and "cab" are rotations). 
+
+Count the Frequency of Each Character
+
+Count how many times each character appears in a string.
+Find the longest word in a given sentence.
+
+Check if two strings are anagrams (contain the same characters in different order).
+
+Sort the characters of a string in alphabetical order.
+
+Find the character that appears the most frequently in a string. 6. String Search and Extraction
+
+Extract a substring from a string by specifying the starting index and length.
+
+Find the length of a specific word in a sentence.
+Check if one string is a substring of another string. 7. String Transformations
+
+Convert a string containing numbers to an integer without using atoi().
+
+Convert an integer to a string (using sprintf() or manually).
+
+Reverse the words in a string without changing their order of characters.
+
+Remove all special characters from a string and keep only alphabets and digits. 8. 
+
+Miscellaneous String Programs
+
+Check if a given string is a valid email address (simple validation).
+Check if a string is a valid phone number (validate based on length and digit pattern).
+
+Find and display characters that are common between two strings.
+
+Compress a string by converting consecutive occurrences of the same character into the character followed by the count (e.g., "aabbbcccc" becomes "a2b3c4"). 
+
+Real-Life Applications Using Strings :
+
+Check if a number is a palindrome by converting it to a string.
+
+Implement basic pattern matching algorithms like KMP or Naive pattern matching.
+
+Parse and format a date string in various formats (e.g., "DD/MM/YYYY" to "MM-DD-YYYY").
+
+Convert a sentence or string into a URL slug by removing spaces and converting to lowercase. 
+
+String with Pointers :
+
+Concatenate two strings using pointers instead of built-in functions.
+
+Compare two strings using pointers.
+
+Copy one string to another using pointer manipulation.
+
+Calculate the length of a string using pointers without using strlen().

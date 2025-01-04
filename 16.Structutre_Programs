@@ -1,0 +1,113 @@
+Structure :
+
+Input a student's name, roll number, and marks, and print them.
+
+Write a program that defines a simple structure to store data like name, age, and address, and accesses it.
+
+Create a structure that stores different types of data (integer, float, character), and display them.
+
+Write a program that takes input for a structure and prints it.
+
+Write a program to define an array of structures and initialize it with multiple records.
+
+Implement a program that passes a structure to a function and prints its contents.
+
+Write a program that returns a structure from a function.
+
+Implement a program to initialize a structure with specific values during declaration.
+
+Write a program that demonstrates nested structures (a structure inside another structure).
+
+Create a program to work with pointers to structures and access structure members.
+
+Write a program to access structure members using pointers. 2. Structure with Arrays and Strings
+
+Write a program to store data for multiple employees (name, age, salary) using an array of structures.
+
+Implement a program that stores an array inside a structure, such as a list of subjects for a student.
+
+Create a program to store a name as a string within a structure.
+
+Write a program that stores multiple strings (e.g., subjects or courses) in a structure.
+
+Write a program to store student information (name, roll number, marks) using an array of structures. 3. Operations on Structures
+
+Create a program to store complex numbers using structures and perform addition, subtraction, and multiplication.
+
+Write a program to find the largest and smallest numbers in an array of structures.
+
+Implement a program to sort an array of structures based on a specific field (e.g., sorting employees by salary).
+
+Write a program that calculates the sum of marks of all students using a structure.
+
+Write a program to calculate the average salary of employees using an array of structures.
+
+Implement a program to compare two structures and check if they are equal (i.e., if all their fields are equal).
+
+Write a program to find the structure with the maximum value of a field (e.g., highest marks or salary).
+
+Implement a program to add two complex numbers using structures (real and imaginary parts).
+
+Write a program to merge two arrays of structures into a single array.
+
+Write a program to copy data from one structure to another using the = operator. 4. File Handling with Structures
+
+Write a program to store student information (name, age, marks) in a structure and save it to a file.
+
+Write a program to write multiple records (array of structures) to a file.
+
+Implement a program to read an array of structures from a file and display the data.
+
+Write a program to modify the structure data in a file.
+
+Implement a program to delete a record from a file that stores structure data.
+
+Write a program that appends data of structures to an existing file.
+
+Write a program that merges data from two files containing structure records into a single file.
+
+Implement a program to update a specific record in a file that stores structure data.
+
+Write a program to search for a specific record in a file that contains structure data.
+
+Advanced Structure Programs :
+
+Write a program that stores and manages contacts (name, phone number, email) in a structure.
+
+Implement a student record system that allows you to add, update, and delete student records using structures.
+
+Write a program to manage employee payroll (name, ID, salary) using structures.
+
+Implement a library management system where books are stored in a structure with fields like title, author, and year of publication.
+
+Write a program to manage a bank account system where each account is stored in a structure (balance, account number, holder name).
+
+Create an employee management system that uses structures to store and process employee data (name, ID, salary).
+
+Implement an online shopping cart system where each product is stored in a structure (product name, price, quantity).
+
+Write a program to store and process student grades (subject, marks, grade) using structures.
+
+Create an inventory management system where each product in the inventory is stored in a structure.
+
+Write a program to store and manage vehicle information (model, year, price) using structures. 6. Miscellaneous Structure Programs
+
+Write a program to create a structure that contains a pointer to another structure.
+
+Implement a program that finds the length of a string stored inside a structure.'
+
+Write a program that defines an array of pointers to structures and performs various operations on it.
+
+Create a program that dynamically allocates memory for a structure and performs operations on it.
+
+Write a program that uses dynamic memory allocation to store an array of structures.
+
+Write a program that passes an array of structures to a function and performs operations on it.
+
+Implement a program that demonstrates the initialization of nested structures.
+
+Write a program that demonstrates the use of bit fields within a structure.
+
+Create a program where a structure contains a function pointer and call a function via the pointer.
+
+Write a program to implement a stack (LIFO) data structure using structures.

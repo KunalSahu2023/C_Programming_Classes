@@ -1,0 +1,20 @@
+2D Arrays Programs :
+
+Input and print a matrix.
+Find the sum of all elements in a matrix.
+Add two matrices of the same dimensions.
+Multiply two matrices.
+Find the transpose of a matrix.
+Row-Wise and Column-Wise Sum
+Compute the sum of elements for each row and each column.
+Find Maximum and Minimum Elements
+Find the largest and smallest elements in a 2D array.
+Verify if a matrix is symmetric (equal to its transpose).
+Interchange the primary and secondary diagonals of a square matrix.
+Reverse each row or column of a 2D array.
+Compute the sum of elements on the primary diagonal of a square matrix.
+Compute the sum of elements on the secondary diagonal of a square matrix.
+Calculate the sum of boundary elements of a matrix.
+Find the absolute difference between the sums of the primary and secondary diagonals. 5. Specialized Problems
+Verify if a matrix is an identity matrix (diagonal elements are 1, others are 0).
+Check if a matrix is a magic square (sum of rows, columns, and diagonals are equal).

@@ -1,0 +1,62 @@
+Dynamic Memory Allocation :
+
+Dynamically allocate memory for an array and print its elements.
+Resize a dynamically allocated array using realloc.
+Input and store n strings dynamically.
+Calculate the sum of n numbers entered dynamically.
+Free dynamically allocated memory after use.
+Basic Dynamic Memory Allocation
+Allocate Memory for an Array of Integers Using malloc()
+
+Allocate memory dynamically for an array of integers and input values from the user.
+Allocate Memory for an Array of Floats Using calloc()
+
+Allocate memory for an array of floats using calloc() and initialize all elements to zero.
+Dynamically allocate memory for an array based on user input for its size, then input values into the array.
+Allocate memory dynamically for a 2D array and input values into the array.
+Reallocate memory for an array dynamically to increase or decrease its size.
+Use free() to release the memory that was dynamically allocated.
+
+Use malloc() to dynamically allocate memory for a structure and input values for its members.
+
+Allocate memory dynamically for an array of structures and input values for each structure.
+
+Create a structure to store student information (e.g., name, age, grades) and dynamically allocate memory to store data for multiple students.
+
+Allocate memory dynamically for an array of strings and input values into the array. 3. Advanced Input/Output with Dynamic Memory Allocation
+
+Allocate memory dynamically for a string input from the user (e.g., using malloc() or calloc()), and ensure the string is properly stored.
+
+Dynamically allocate memory to store the concatenated result of two strings provided by the user.
+
+Allocate memory dynamically for a 2D matrix based on user input for its rows and columns, then input matrix values.
+
+Use dynamic memory allocation for an array of pointers (multi-dimensional array) and input values for each element.
+
+Allocate memory dynamically to read data from a file and process it. For example, storing file content in a dynamically allocated buffer and outputting it.
+
+Dynamically allocate memory to read data from a file and store the contents in a dynamically allocated array or buffer.
+
+Dynamically allocate memory to store data in an array or structure, then write the data to a file.
+
+Use dynamic memory allocation to efficiently read and process large files, where the size is unknown at compile time.
+
+Dynamically allocate memory to copy data from one file to another, handling the file contents using a buffer.
+
+Prompt the user for the size of the array, dynamically allocate memory for that size, and then input values.
+Reallocate Memory Based on Input Size
+
+Dynamically reallocate memory for an array based on user input (e.g., changing the size of the array as required).
+Efficient Memory Usage with Dynamic Allocation for Input
+
+Use dynamic memory allocation for reading input where the number of data elements is not known in advance.
+
+Dynamically allocate memory for a string, input the string, and then reverse it in place.
+
+Implement a program using pointer-to-pointer and dynamically allocate memory for 2D arrays.
+
+Implement a singly linked list using dynamic memory allocation to create nodes and store data.
+
+Create a binary tree where nodes are dynamically allocated and connected based on user input.
+
+Dynamically allocate memory for an array of integers and implement sorting algorithms (e.g., bubble sort, quicksort) to sort the array.

@@ -1,0 +1,90 @@
+File Handling I/O :
+
+Write to a file.
+Read from a file.
+Count the number of lines in a file.
+Read and print the contents of a file.
+Copy the contents of one file to another.
+Write a program to write numbers to a file and then read them back.
+Count the number of words, characters, and lines in a text file.
+Find and replace a word in a text file.
+Write a program that creates a new file and writes some text into it.
+Write a program that opens a file and reads its contents.
+Implement a program that appends data to an existing file without overwriting it.
+Implement a program to check whether a specific file exists or not.
+Write a program that deletes a specified file.
+Write a program that renames an existing file.
+Implement a program that takes input from the user and writes it to a text file.
+Write a program to search for a specific word in a text file and display its occurrences.
+Implement a program to replace all occurrences of a word in a file with another word.
+Implement a program that writes an array of strings to a text file.
+Write a program that reads a specific line from a text file.
+Write a program to write data (e.g., student records) in tabular format into a text file.
+Implement a program to read a file using pointers in C.
+Write a program that reads a text file and converts its content to uppercase. 3. Binary
+
+Write a program that writes integer data to a binary file.
+Implement a program that reads data from a binary file and displays it.
+Write a program to write structure data into a binary file.
+
+Write a program that appends data to an existing binary file.
+Implement a program that finds and replaces specific data in a binary file.
+Write a program that counts the number of records in a binary file.
+Write a program to copy a binary file to another binary file.
+Write a program that updates a specific record in a binary file.
+
+Implement a program to search for a record in a binary file. 4. File Handling with Structures
+Write a program to store student information (like name, roll number, and marks) in a structure and write the data to a file.
+Implement a program to read structure data (like student information) from a file.
+
+Write a program that writes multiple records (structures) to a file.
+
+Implement a program to read multiple records (structures) from a file.
+Write a program to modify a record stored in a file using structures.
+
+Advance File Operation Programs :
+
+Implement a program to delete a specific record from a file containing structures.
+
+Write a program that sorts student records and writes them to a file.
+
+Implement a program to merge data from two files containing structure records into one file.
+Write a program to write an array of structures (e.g., student records) to a binary file.
+
+Write a program to search for a specific record in a file containing structure data. 5.
+Write a program that checks whether a file was opened successfully or not.
+
+Implement error handling in a program that reads from a file (e.g., file not found, permission issues).
+
+Write a program that handles errors while writing to a file (e.g., file permission issues, disk full).
+Implement a program that checks for the end of a file (EOF) while reading from a file.
+Write a program that checks the read and write permissions for a file before performing file operations.
+
+Write a program that handles errors when attempting to delete a file (e.g., file not found, permission denied).
+
+Implement a program that handles the error when attempting to open a file that does not exist.
+
+Write a program that displays appropriate error messages when a file operation fails.
+
+Write a program that checks if a file can be accessed for reading or writing.
+
+Implement error handling when using dynamic memory allocation for file handling operations.
+
+Write a program that creates a file with a header and footer and writes content between them.
+
+Implement a program that creates a backup of a file by copying its contents to a new file.
+
+Write a program that logs the details (name, size, and permissions) of a file to another file.
+Implement Command Line Arguments for File Operations
+
+Write a program that performs file operations based on command-line arguments (e.g., reading or writing to a file).
+Write a program that reads a file and prints all even-numbered or odd-numbered lines.
+
+Implement a program that takes user input and creates a report file containing formatted data.
+
+Write a program that stores and manages contact information in a file (e.g., name, phone number, email).
+
+Write a program that logs errors or events to a log file for debugging purposes.
+Implement a program that writes multiple lines of text to a file using a loop.
+
+Write a program that compares two files and reports any differences between them.
