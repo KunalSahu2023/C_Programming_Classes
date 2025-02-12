@@ -1,10 +1,11 @@
 
+    // Read and print an integer.
+    
 #include <stdio.h>
 int main()
 {
     int a;
     float b;
-    // Read and print an integer.
     printf("Enter an Integer Number \n");
     scanf("%d", &a);
     printf("Integer Number is %d \n", a);
